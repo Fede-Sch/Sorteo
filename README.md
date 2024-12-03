@@ -178,16 +178,21 @@
 
     <script>
         const participants = [
-            "Lucia Fernandez",
-            "Martin Rodriguez",
-            "Valentina Gomez", 
-            "Santiago Lopez",
-            "Martina Perez",
-            "Nicolas Garcia",
-            "Camila Torres",
-            "Joaquin Ramirez",
-            "Antonella Mendez",
-            "Mateo Alvarez"
+            "@meliisantillan20",
+            "@_soljuanenea_",
+            "@negrohermida_08", 
+            "@jeree_orcaj",
+            "@cande.j24",
+            "@rusito_bardel_08",
+            "@marianela.ibarra.188",
+            "@delfi.ok234",
+            "@camiituarte",
+            "@maguisuarez_"
+            "@brisaapintoss__",
+            "@xioma_pallero",
+            "@leo_larrosaa",
+            "@federico_sch_",
+            "@_miliaineseder_",
         ];
 
         const performRaffleBtn = document.getElementById('performRaffle');
