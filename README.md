@@ -173,7 +173,7 @@
         
         <button id="performRaffle">Realizar Sorteo</button>
         
-        <div id="participantsCount">Participantes: 15</div>
+        <div id="participantsCount">Participantes: 16</div>
         <div id="winnersList"></div>
     </div>
 
@@ -194,6 +194,7 @@
             "@leo_larrosaa",
             "@federico_sch_",
             "@_miliaineseder_"
+            "@soll_orcajo"
         ];
 
         const performRaffleBtn = document.getElementById('performRaffle');
