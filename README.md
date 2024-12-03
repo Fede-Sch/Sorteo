@@ -90,6 +90,7 @@
             position: relative;
             overflow: hidden;
             perspective: 1000px;
+            min-width: 250px;
         }
         .winner-card::before {
             content: '';
@@ -172,7 +173,7 @@
         
         <button id="performRaffle">Realizar Sorteo</button>
         
-        <div id="participantsCount">Participantes: 16</div>
+        <div id="participantsCount">Participantes: 15</div>
         <div id="winnersList"></div>
     </div>
 
@@ -180,19 +181,21 @@
         const participants = [
             "@meliisantillan20",
             "@_soljuanenea_",
-            "@negrohermida_08", 
+            "@negrohermida_08",
             "@jeree_orcaj",
             "@cande.j24",
             "@rusito_bardel_08",
             "@marianela.ibarra.188",
             "@delfi.ok234",
             "@camiituarte",
-            "@maguisuarez_"
+            "@maguisuarez_",
             "@brisaapintoss__",
             "@xioma_pallero",
             "@leo_larrosaa",
             "@federico_sch_",
-            "@_miliaineseder_", ];
+            "@_miliaineseder_"
+        ];
+
         const performRaffleBtn = document.getElementById('performRaffle');
         const winnersList = document.getElementById('winnersList');
 
