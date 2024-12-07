@@ -173,7 +173,7 @@
         
         <button id="performRaffle">Realizar Sorteo</button>
         
-        <div id="participantsCount">Participantes: 16</div>
+        <div id="participantsCount">Participantes: 26</div>
         <div id="winnersList"></div>
     </div>
 
@@ -193,7 +193,17 @@
             "@xioma_pallero",
             "@leo_larrosaa",
             "@federico_sch_",
-            "@_miliaineseder_"
+            "@_miliaineseder_",
+            "@rama_paglione03",
+            "@carlitos_correa03",
+            "@_miaa.alaniz__",
+            "@liilusochi_",
+            "@fiammabasse",
+            "@morenapinuer",
+            "@sofi_allende_",
+            "@mia_acosta_ok",
+            "@almaa.111_",
+            "@_juanaibenez",
             "@soll_orcajo"
         ];
 
